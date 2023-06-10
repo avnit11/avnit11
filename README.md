@@ -1,3 +1,4 @@
+![logo](https://www.shutterstock.com/image-vector/vector-banner-design-circuit-board-260nw-1233925105.jpg)
 <h1 align="center">Hi 👋, I'm Avnit Adsule</h1>
 <h3 align="center">A passionate Devops and Cloud Engineer from India</h3>
 <img align="right" alt="Devops Enggineer" width="400" src="https://xeo5.com/idl/wp-content/uploads/2021/08/DevOps-Steps-1.gif"
